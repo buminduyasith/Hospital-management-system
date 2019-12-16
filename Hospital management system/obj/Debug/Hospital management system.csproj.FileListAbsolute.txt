@@ -1,0 +1,35 @@
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe.config
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\bin\Debug\Hospital management system.pdb
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.pdb
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form1.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.patientregistration.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\bin\Debug\Transitions.dll
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\bin\Debug\Transitions.pdb
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CopyComplete
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Homereceptionist.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.channeldoctorRes.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Channlingoutput.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.AdminPanel.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.test.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\bin\Debug\FluentValidation.dll
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\bin\Debug\FluentValidation.xml
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.adminpanelthing.docreg.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.adminpanelthing.receptionreg.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.adminpanelthing.patientdetails.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.adminpanelthing.addrecepdetails.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csprojAssemblyReference.cache
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Login_panel.loggingform.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.adminpanelthing.adminreg.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorpanel.maindoc.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorpanel.workingdays.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorpanel.ChannelDeatails.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorpanel.DoctorDashbord.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.password_change.pwdchangeview.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorpanel.patientrecfordoctor.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.patientdetails_reg.resources
+C:\Users\Bumindu\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.adminpanelthing.adminhome.resources
